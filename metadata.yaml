@@ -1,0 +1,31 @@
+_repo: Crime--Its-Cause-and-Treatment_12027
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darrow, Clarence
+    alias: Darrow, Clarence Seward
+    birthdate: 1857
+    deathdate: 1938
+    gutenberg_agent_id: '4184'
+    url: http://www.gutenberg.org/2009/agents/4184
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Darrow
+description: 'True-crime fans and readers interested in the history of American jurisprudence
+  should definitely add Crime: Its Cause and Treatment to their must-read list. Penned
+  by famed lawyer Clarence Darrow, this penetrating look at the origins of criminal
+  behavior draws on Darrow''s own experiences defending such infamous characters as
+  the teenage thrill-killers Leopold and Loeb.'
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Crime'
+- GITenberg
+title: 'Crime: Its Cause and Treatment'
+url: http://www.gutenberg.org/ebooks/12027
